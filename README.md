@@ -10,6 +10,5 @@ Project ScreenShots
 
 
 
-
-https://github.com/Deepankar0712/Social-Media/assets/74086712/713cc375-c1cd-476b-9576-c311eec808ec
+https://github.com/Deepankar0712/Social-Media/assets/74086712/9c865775-8b8b-4664-8f1a-3f9536fa96f3
 
