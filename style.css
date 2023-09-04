@@ -7,7 +7,7 @@
 
 :root {
     --body-color: #efefef;
-    --nav-color: #1876f2;
+    --nav-color: #1ba0bd;
     --bg-color: #fff;
 }
 
@@ -148,7 +148,7 @@ nav {
 }
 
 .imp-links a:last-child {
-    color: #1876f2;
+    color: #1ba0bd;
 }
 
 .imp-links {
@@ -182,7 +182,7 @@ nav {
 
 .sidebar-title a {
     text-decoration: none;
-    color: #1876f2;
+    color: #1ba0bd;
     font-size: 12px;
 }
 
@@ -211,7 +211,7 @@ nav {
 .event a {
     font-size: 12px;
     text-decoration: none;
-    color: #1876f2;
+    color: #1ba0bd;
 }
 
 .left-event span {
@@ -219,7 +219,7 @@ nav {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: #1876f2;
+    background: #1ba0bd;
     color: #fff;
     font-size: 10px;
     padding: 4px 0;
@@ -274,7 +274,7 @@ nav {
     border-radius: 50%;
     top: 10px;
     left: 10px;
-    border: 5px solid #1876f2;
+    border: 5px solid #1ba0bd;
 }
 
 .story p {
@@ -398,7 +398,7 @@ nav {
 }
 
 .post-text a {
-    color: #1876f2;
+    color: #1ba0bd;
     text-decoration: none;
 }
 
@@ -478,7 +478,7 @@ nav {
 
 .user-profile a {
     font-size: 12px;
-    color: #1876f2;
+    color: #1ba0bd;
     text-decoration: none;
 }
 
